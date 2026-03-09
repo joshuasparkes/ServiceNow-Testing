@@ -2,7 +2,7 @@
 import { UiPage } from '@servicenow/sdk-core/ui';
 
 UiPage({
-    name: 'x_1925689_test_3_dashboard',
+    $id: 'x_1925689_test_3_dashboard',
     endpoint: 'x_1925689_test_3_dashboard.do',
     description: 'Test 3 Application Dashboard',
     direct: true,
