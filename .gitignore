@@ -1,0 +1,18 @@
+# ServiceNow specific
+src/fluent/generated/
+node_modules/
+dist/
+build/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
